@@ -1,0 +1,16 @@
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\bin\Debug\net5.0\DIO.Sertes.exe
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\bin\Debug\net5.0\DIO.Sertes.deps.json
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\bin\Debug\net5.0\DIO.Sertes.runtimeconfig.json
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\bin\Debug\net5.0\DIO.Sertes.runtimeconfig.dev.json
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\bin\Debug\net5.0\DIO.Sertes.dll
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\bin\Debug\net5.0\ref\DIO.Sertes.dll
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\bin\Debug\net5.0\DIO.Sertes.pdb
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\obj\Debug\net5.0\DIO.Sertes.csproj.AssemblyReference.cache
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\obj\Debug\net5.0\DIO.Sertes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\obj\Debug\net5.0\DIO.Sertes.AssemblyInfoInputs.cache
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\obj\Debug\net5.0\DIO.Sertes.AssemblyInfo.cs
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\obj\Debug\net5.0\DIO.Sertes.csproj.CoreCompileInputs.cache
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\obj\Debug\net5.0\DIO.Sertes.dll
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\obj\Debug\net5.0\ref\DIO.Sertes.dll
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\obj\Debug\net5.0\DIO.Sertes.pdb
+C:\Users\joao.vieira.silva\OneDrive\DIO.Sertes\obj\Debug\net5.0\DIO.Sertes.genruntimeconfig.cache
